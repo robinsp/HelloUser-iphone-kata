@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'HelloUser-iphone-kata' target in the 'HelloUser-iphone-kata' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
